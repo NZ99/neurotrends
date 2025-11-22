@@ -1,0 +1,24 @@
+{
+  "name": "neurotrends",
+  "version": "1.0.0",
+  "description": "Static neurotrends front-end assets.",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwindcss -i ./styles/input.css -o ./public/assets/styles.css --minify",
+    "dev:css": "tailwindcss -i ./styles/input.css -o ./public/assets/styles.css --watch",
+    "deploy": "vercel --prod --yes"
+  },
+  "keywords": [],
+  "author": "niccolo + collaborators",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@observablehq/plot": "^0.6.13",
+    "d3": "^7.9.0",
+    "tailwindcss": "^3.4.14",
+    "vercel": "^48.10.2"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}

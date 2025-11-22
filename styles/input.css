@@ -1,0 +1,175 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-color: #333333;
+  --paper-color: #f5f4e9;
+  --text-color: #333333;
+  --link-color: #6c2e2e;
+  --accent-color: #b2abde;
+  --card-color: #dddacc;
+  --grid-line: rgba(0, 0, 0, 0.12);
+}
+
+@layer base {
+  body.nt-body {
+    font-family: "Fira Code", monospace;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    @apply min-h-screen w-full m-0 flex flex-col;
+  }
+
+  main {
+    @apply flex-1 w-full flex justify-center;
+  }
+
+  a {
+    color: var(--link-color);
+  }
+
+  a:hover {
+    @apply underline;
+  }
+}
+
+@layer components {
+  .nt-shell {
+    background-color: var(--paper-color);
+    @apply w-full max-w-none mx-auto px-6 sm:px-10 lg:px-20 py-10 shadow-2xl border border-black/10 gap-8 flex flex-col min-h-[calc(100vh-3rem)] rounded-none md:rounded-[2rem];
+  }
+
+  .nt-hero {
+    @apply flex flex-col gap-6;
+  }
+
+  .nt-hero h2 {
+    @apply text-3xl uppercase tracking-wide border-b border-black/50 pb-3;
+  }
+
+  .nt-metrics {
+    @apply grid grid-cols-1 sm:grid-cols-3 gap-4;
+  }
+
+  .nt-metrics > div {
+    @apply bg-white/80 border border-black/10 p-4 rounded shadow-sm;
+  }
+
+  .nt-label {
+    @apply text-xs uppercase tracking-widest text-black/70;
+  }
+
+  .nt-value {
+    @apply block text-2xl mt-1;
+  }
+
+  .nt-meta {
+    @apply text-xs text-black/60 mt-1;
+  }
+
+  .nt-chart-card {
+    background-color: var(--card-color);
+    @apply flex flex-col gap-6 rounded-lg border border-black/20 p-5;
+  }
+
+  .nt-plot {
+    @apply bg-white rounded border border-black/30;
+    min-height: 420px;
+    padding: 1rem;
+    position: relative;
+    overflow: visible;
+  }
+
+  .nt-annotations {
+    @apply grid grid-cols-1 sm:grid-cols-2 gap-4;
+  }
+
+  .nt-annotations > div {
+    @apply bg-white/70 border border-black/10 rounded p-4;
+  }
+
+  .nt-method-wrap {
+    @apply bg-white/60 border border-black/10 rounded-lg p-5 space-y-3;
+  }
+
+  .nt-method-grid {
+    @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4;
+  }
+
+  .nt-method-grid > div {
+    @apply bg-white border border-black/10 rounded p-4;
+  }
+
+  .nt-download {
+    @apply bg-white border border-black/10 rounded-lg p-5 shadow-sm max-w-xl text-center;
+  }
+
+  .nt-button {
+    @apply inline-flex items-center justify-center px-4 py-2 border border-black/80 bg-transparent uppercase text-xs tracking-widest mt-2;
+  }
+
+  .nt-hint {
+    @apply text-xs text-black/60 mt-2;
+  }
+
+  .nt-legend {
+    @apply flex flex-wrap gap-3 text-[0.65rem] uppercase tracking-widest text-black/70;
+  }
+
+  .nt-legend-item {
+    @apply flex items-center gap-2;
+  }
+
+  .nt-legend-swatch {
+    @apply w-4 h-4 rounded-sm border border-black/30;
+  }
+
+  .nt-legend-label {
+    @apply text-xs;
+  }
+
+  .nt-milestones {
+    @apply list-disc pl-5 mt-2 text-[0.7rem] text-black/70 space-y-1;
+  }
+
+  .nt-tooltip {
+    @apply absolute bg-white border border-black/40 shadow-2xl px-4 py-3 text-xs space-y-1 w-56 hidden pointer-events-auto;
+    z-index: 30;
+  }
+
+  .nt-tooltip.visible {
+    @apply block;
+  }
+
+  .nt-tooltip h5 {
+    @apply text-sm font-semibold m-0;
+  }
+
+  .nt-tooltip a {
+    @apply text-xs uppercase tracking-widest text-[#6c2e2e];
+  }
+
+  .nt-download-row {
+    @apply flex justify-center w-full;
+  }
+
+  footer {
+    @apply flex justify-center pb-6;
+  }
+
+  .nt-footer-text {
+    @apply text-xs text-white/70 text-center uppercase tracking-widest;
+  }
+}
+
+@media (max-width: 800px) {
+  .nt-shell {
+    @apply my-0 rounded-none shadow-none px-4 py-8;
+  }
+
+  .nt-plot {
+    min-height: 320px;
+  }
+}

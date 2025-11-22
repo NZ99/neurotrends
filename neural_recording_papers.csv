@@ -1,0 +1,191 @@
+Year,Month,Neurons,Authors,Method,Source,Publication,Method Note,DOI
+1957,7,2,"Mountcastle, Davies, and Berman",Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.1957.20.4.374
+1957,8,2,Baumgarten and Schaefer,Ephys,Stevenson,Pflüger's Archiv für die gesamte Physiologie des Menschen und der Tiere,,https://doi.org/10.1007/BF00595651
+1959,3,3,Amassian et al.,Ephys,Stevenson,Trans. of the New York Academy of Science,,https://doi.org/10.1111/j.2164-0947.1959.tb01676.x
+1961,1,2,Amassian et al.,Ephys,S&K,Annals of the New York Academy of Sciences,,https://doi.org/10.1111/j.1749-6632.1961.tb20184.x
+1962,1,3,Hubel and Wiesel,Ephys,Stevenson,Journal of Physiology,,https://doi.org/10.1113/jphysiol.1962.sp006837
+1963,8,2,Griffith and Horn,Ephys,S&K,Nature,,https://doi.org/10.1038/199876a0
+1964,3,3,Gerstein and Clark,Ephys,Stevenson,Science,,https://doi.org/10.1126/science.143.3612.1325
+1964,10,2,Braitenberg et al.,Ephys,S&K,Biological Cybernetics,,https://doi.org/10.1007/BF00306415
+1965,2,2,Oikawa et al.,Ephys,S&K,Yonago acta medica,,https://www.ncbi.nlm.nih.gov/pubmed/14287709
+1965,3,2,Evarts,Ephys,S&K,Journal of Neurophysiology,Single electrode picked up 2 units,https://doi.org/10.1152/jn.1965.28.2.216
+1967,9,2,Rodieck,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.1967.30.5.1043
+1969,3,2,O'Keefe and Bouma,Ephys,Stevenson,Experimental Neurology,8 fixed wires,https://doi.org/10.1016/0014-4886(69)90086-7
+1970,9,3,Kristan and Gerstein,Ephys,Stevenson,Science,,https://doi.org/10.1126/science.169.3952.1336
+1970,9,2,Noda and Adey,Ephys,S&K,Journal of Neurophysiology,Single electrode picked up 2 units,https://doi.org/10.1152/jn.1970.33.5.672
+1970,11,8,"Humphrey, Schmidt, and Thompson",Ephys,Stevenson,Science,,https://doi.org/10.1126/science.170.3959.758
+1970,12,5,Humphrey,Ephys,Stevenson,Electroencephalography and Clinical Neurophysiology,5 electrode microdrive,https://doi.org/10.1016/0013-4694(70)90105-7
+1972,1,3,Gerstein and Perkel,Ephys,Stevenson,Biophysical Journal,,https://doi.org/10.1016/S0006-3495(72)86097-1
+1974,1,3,Dickson and Gerstein,Ephys,S&K,Journal of Neurophysiology,3 electrodes,https://doi.org/10.1152/jn.1974.37.6.1239
+1975,7,5,Voronin et al.,Ephys,Stevenson,Brain Research,,https://doi.org/10.1016/0006-8993(75)90324-8
+1976,9,12,Schmidt et al.,Ephys,S&K,Experimental Neurology,12 electrodes,https://doi.org/10.1016/0014-4886(76)90220-X
+1976,9,4,Schmidt et al.,Ephys,Stevenson,Experimental Neurology,7 electrode assembly,https://doi.org/10.1016/0014-4886(76)90217-X
+1977,3,2,Schmidt et al.,Ephys,Stevenson,Experimental Neurology,12 electrodes,https://doi.org/10.1016/0014-4886(77)90250-3
+1977,5,6,Abeles and Goldstein,Ephys,Stevenson,Proceedings of the IEEE,1 electrode - focus on sorting,https://doi.org/10.1109/PROC.1977.10559
+1977,9,3,Loeb et al.,Ephys,S&K,Science,,https://doi.org/10.1126/science.897663
+1978,7,7,Durelli et al.,Ephys,S&K,Experimental Neurology,7 electrode assembly,https://doi.org/10.1016/0014-4886(78)90270-4
+1978,9,2,Schmidt et al.,Ephys,Stevenson,Experimental Neurology,,https://doi.org/10.1016/0014-4886(78)90252-2
+1981,1,2,Costanzo and Gardner,Ephys,Stevenson,Brain Research,,https://doi.org/10.1016/0006-8993(81)91196-3
+1981,1,18,Kruger and Bach,Ephys,S&K,Experimental Brain Research,30 channel array,https://doi.org/10.1007/BF00236609
+1981,3,5,Kuperstein and Whittington,Ephys,Stevenson,IEEE Transactions in Biomedical Engineering,24 channel microelectrode,https://doi.org/10.1109/TBME.1981.324702
+1982,5,6,Kruger,Ephys,Stevenson,Journal of Neuroscience Methods,12 glass-coated wire microelectrodes of different lengths,https://doi.org/10.1016/0165-0270(82)90035-8
+1982,6,7,Reitboeck and Werner,Ephys,S&K,Experimentia,,https://doi.org/10.1007/BF01955338
+1982,12,5,Wheeler and Heetderks,Ephys,S&K,IEEE Transactions in Biomedical Engineering,,https://doi.org/10.1109/TBME.1982.324870
+1983,6,5,Michalski et al.,Ephys,Stevenson,Experimental Brain Research,,https://doi.org/10.1007/BF00236807
+1983,8,6,Frostig et al.,Ephys,Stevenson,Brain Research,,https://doi.org/10.1016/0006-8993(83)90567-X
+1983,8,5,McNaughton et al.,Ephys,S&K,Journal of Neuroscience Methods,Stereotrode,https://doi.org/10.1016/0165-0270(83)90097-3
+1984,1,10,Kubie,Ephys,Stevenson,Physiology and Behavior,,https://doi.org/10.1016/0031-9384(84)90080-5
+1984,1,4,Frostig et al.,Ephys,S&K,Brain Research,,https://doi.org/10.1016/0006-8993(84)91181-8
+1984,9,3,Legendy et al.,Ephys,Stevenson,Electroencephalography and Clinical Neurophysiology,,https://doi.org/10.1016/0013-4694(84)90115-9
+1985,4,7,Legendy and Salcman,Ephys,S&K,Journal of Neurophysiology,,https://doi.org/10.1152/jn.1985.53.4.926
+1985,7,19,Kuperstein and Eichenbaum,Ephys,Stevenson,Neuroscience,,https://doi.org/10.1016/0306-4522(85)90072-7
+1986,1,14,Kuperstein et al.,Ephys,Stevenson,Experimental Brain Research,,https://doi.org/10.1007/BF00239532
+1986,2,6,Lou and Bloedel,Ephys,Stevenson,Brain Research,,https://doi.org/10.1016/0006-8993(86)91646-X
+1987,4,8,Lindsey et al.,Ephys,S&K,Journal of Neurophysiology,,https://doi.org/10.1152/jn.1987.57.4.1101
+1988,5,15,Espinosa and Gerstein,Ephys,Stevenson,Brain Research,Bundle of 7 microeelctrodes,https://doi.org/10.1016/0006-8993(88)91542-9
+1988,6,8,Mioche and Singer,Ephys,S&K,Journal of Neuroscience Methods,Floating,https://doi.org/10.1016/0165-0270(88)90131-8
+1988,7,19,Eckhorn et al.,Ephys,S&K,Biological Cybernetics,,https://doi.org/10.1007/BF00202899
+1988,8,29,Aiple and Kruger,Ephys,Stevenson,Experimental Brain Research,,https://doi.org/10.1007/BF00248509
+1988,9,8,Abeles and Gerstein,Ephys,S&K,Journal of Neurophysiology,6-electrode,https://doi.org/10.1152/jn.1988.60.3.909
+1988,9,8,Drake et al.,Ephys,Stevenson,IEEE Transactions in Biomedical Engineering,,https://doi.org/10.1109/10.7273
+1989,4,9,Lindsey et al.,Ephys,S&K,Brain Research,,https://doi.org/10.1016/0006-8993(89)90183-2
+1989,6,14,Buzsaki et al.,Ephys,Stevenson,Journal of Neuroscience Methods,,https://doi.org/10.1016/0165-0270(89)90038-1
+1990,11,11,Ahissar and Vaadia,Ephys,S&K,Proc. of the National Academy of Sciences,,https://doi.org/10.1073/pnas.87.22.8935
+1991,1,10,Mountcastle et al.,Ephys,S&K,Journal of Neuroscience Methods,,https://doi.org/10.1016/0165-0270(91)90140-U
+1991,5,82,Meister et al.,Ephys,Stevenson,Science,isolated retina,https://doi.org/10.1126/science.2035024
+1991,11,4,Eggermont.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.1991.66.5.1549
+1992,1,9,Ahissar et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.1992.67.1.203
+1992,9,10,Ahissar et al.,Ephys,Stevenson,Science,,http://doi.org/10.1126/science.1529342
+1993,2,30,Shaw et al.,Ephys,Stevenson,Neurological Research,,https://doi.org/10.1080/01616412.1993.11740106
+1993,3,23,Nicolelis et al.,Ephys,Stevenson,Proc. of the National Academy of Sciences,,https://doi.org/10.1073/pnas.90.6.2212
+1993,8,148,Wilson and McNaughton,Ephys,Stevenson,Science,Tetrodes HC,https://doi.org/10.1126/science.8351520
+1993,10,10,Abeles et al.,Ephys,S&K,Journal of Neurophysiology,,https://doi.org/10.1152/jn.1993.70.4.1629
+1994,7,74,Wilson and McNaughton,Ephys,Stevenson,Science,Tetrodes HC,https://doi.org/10.1126/science.8036517
+1994,10,5,Lindsey et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.1994.72.4.1830
+1995,2,16,Vaadia et al.,Ephys,S&K,Nature,,https://doi.org/10.1038/373515a0
+1995,6,48,Nicolelis et al.,Ephys,S&K,Science,,https://doi.org/10.1126/science.7761855
+1995,10,8,Nini et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.1995.74.4.1800
+1995,12,9,Gray et al.,Ephys,Stevenson,Journal of Neuroscience Methods,Tetrode,https://doi.org/10.1016/0165-0270(95)00085-2
+1996,1,23,Gothard et al.,Ephys,Stevenson,Journal of Neuroscience,,https://doi.org/10.1523/JNEUROSCI.16-02-00823.1996
+1996,1,16,Seidemann et al.,Ephys,Stevenson,Journal of Neuroscience,,https://doi.org/10.1523/JNEUROSCI.16-02-00752.1996
+1996,2,117,Skaggs et al.,Ephys,Stevenson,Hippocampus,Tetrodes,https://doi.org/10.1002/(SICI)1098-1063(1996)6:2%3C149::AID-HIPO6%3E3.0.CO;2-K
+1996,3,57,Skaggs et al.,Ephys,Stevenson,Science,Tetrodes,https://doi.org/10.1126/science.271.5257.1870
+1996,7,51,Nordhausen et al.,Ephys,Stevenson,Brain Research,,https://doi.org/10.1016/0006-8993(96)00321-6
+1996,7,15,Chang et al.,Ephys,Stevenson,Neuroscience,,https://doi.org/10.1016/0306-4522(96)00144-3
+1996,12,29,McHugh et al.,Ephys,Stevenson,Cell,,https://doi.org/10.1016/S0092-8674(00)81828-0
+1997,4,32,Chang et al.,Ephys,S&K,Brain Research,,https://doi.org/10.1016/S0006-8993(97)00012-7
+1997,4,100,Nicolelis et al.,Ephys,S&K,Neuron,,https://doi.org/10.1016/S0896-6273(00)80295-0
+1998,6,16,Prut et al.,Ephys,S&K,Journal of Neurophysiology,,https://doi.org/10.1152/jn.1998.79.6.2857
+1998,7,21,Rousche and Normann,Ephys,Stevenson,Journal of Neuroscience Methods,,https://doi.org/10.1016/S0165-0270(98)00031-4
+1998,9,34,Brown et al.,Ephys,Stevenson,Journal of Neuroscience,,https://doi.org/10.1523/JNEUROSCI.18-18-07411.1998
+1998,11,135,Nicolelis et al.,Ephys,Stevenson,Nature Neuroscience,,https://doi.org/10.1038/2855
+1999,2,15,Villa et al.,Ephys,S&K,Proc. of the National Academy of Sciences,,https://doi.org/10.1073/pnas.96.3.1106
+1999,7,46,Chapin et al.,Ephys,S&K,Nature Neuroscience,,https://doi.org/10.1038/10223
+1999,7,68,Normann et al.,Ephys,Stevenson,Vision Research,,https://doi.org/10.1016/S0042-6989(99)00040-1
+1999,11,5,Kay et al.,Ephys,Stevenson,Nature Neuroscience,,https://doi.org/10.1038/14801
+1999,12,23,Chapin and Nicolelis,Ephys,S&K,Journal of Neuroscience Methods,,https://doi.org/10.1016/S0165-0270(99)00130-2
+1999,12,62,Williams et al.,Ephys,Stevenson,Brain Research Protocols,,https://doi.org/10.1016/S1385-299X(99)00034-3
+2000,1,52,Porada et al.,Ephys,Stevenson,Journal of Neuroscience Methods,,https://doi.org/10.1016/S0165-0270(99)00139-9
+2000,6,30,Isaacs et al.,Ephys,S&K,IEEE TNSRE,,https://doi.org/10.1109/86.847814
+2000,6,32,Laubach et al.,Ephys,S&K,Nature,,https://doi.org/10.1038/35014604
+2000,8,31,Chang et al.,Ephys,S&K,Neuroscience,,https://doi.org/10.1016/S0306-4522(00)00218-9
+2000,11,100,Wessberg et al.,Ephys,S&K,Nature,,https://doi.org/10.1038/35042582
+2001,5,23,Normann et al.,Ephys,Stevenson,Vision Research,,https://doi.org/10.1016/S0042-6989(00)00273-X
+2001,11,32,Giszter et al.,Ephys,S&K,Robotics and Autonomous Sys,,https://doi.org/10.1016/S0921-8890(01)00159-2
+2002,6,64,Taylor et al.,Ephys,S&K,Science,,https://doi.org/10.1126/science.1070291
+2003,7,68,Harris et al.,Ephys,Stevenson,Nature,,https://doi.org/10.1038/nature01834
+2003,7,247,Nicolelis et al.,Ephys,S&K,Proc. of the National Academy of Sciences,,https://doi.org/10.1073/pnas.1934665100
+2003,8,96,Csicsvari et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.00116.2003
+2003,10,90,Carmena et al.,Ephys,S&K,PLoS Biology,,https://doi.org/10.1371/journal.pbio.0000042
+2003,6,35,Stosiek et al.,Imaging,Meijer,PNAS,,https://doi.org/10.1073/pnas.1232232100
+2004,1,19,Paninski et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.00587.2002
+2004,1,19,Laubach,Ephys,Stevenson,Journal of Neuroscience Methods,,https://doi.org/10.1016/j.jneumeth.2003.11.007
+2004,3,143,Hatsopoulos et al.,Ephys,S&K,Journal of Neurophysiology,,https://doi.org/10.1152/jn.01245.2003
+2004,6,185,Sanchez et al.,Ephys,S&K,IEEE BME,,https://doi.org/10.1109/TBME.2004.827061
+2004,7,55,Patil et al.,Ephys,S&K,Neurosurgery,,https://doi.org/10.1227/01.NEU.0000126872.23715.E5
+2004,7,64,Stein et al.,Ephys,S&K,Canadian Journal of Physiology and Pharmacology,,https://doi.org/10.1139/y04-075
+2004,7,45,Bartho et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.01170.2003
+2004,10,90,Stein et al.,Ephys,Stevenson,Journal of Physiology,,https://doi.org/10.1113/jphysiol.2004.068668
+2005,5,177,Lebedev et al.,Ephys,S&K,Journal of Neuroscience,,https://doi.org/10.1523/JNEUROSCI.4088-04.2005
+2005,5,100,Blanche et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.01023.2004
+2005,6,44,Barbieri et al.,Ephys,Stevenson,IEEE TNSRE,,https://doi.org/10.1109/TNSRE.2005.847368
+2005,7,147,Santucci et al.,Ephys,S&K,Eur. Journal of Neuroscience,,https://doi.org/10.1111/j.1460-9568.2005.04320.x
+2005,1,100,Ohki et al.,Imaging,Meijer,Nature,calcium imaging in rat and cat cortex,https://doi.org/10.1038/nature03274
+2006,5,192,Kim et al.,Ephys,Stevenson,Journal of Neural Engineering,,https://doi.org/10.1088/1741-2560/3/2/009
+2006,7,57,Hochberg et al.,Ephys,Stevenson,Nature,,https://doi.org/10.1038/nature04970
+2006,7,260,Lin et al.,Ephys,Stevenson,Journal of Neuroscience Methods,,https://doi.org/10.1016/j.jneumeth.2005.12.032
+2007,5,68,Hatsopoulos et al.,Ephys,S&K,Journal of Neuroscience,,https://doi.org/10.1523/JNEUROSCI.3570-06.2007
+2007,7,183,Zacksenhouse et al.,Ephys,S&K,PLoS ONE,,https://doi.org/10.1371/journal.pone.0000619
+2007,8,60,Weber et al.,Ephys,Stevenson,Journal of Neural Engineering,,https://doi.org/10.1088/1741-2560/4/3/S04
+2007,7,140,Hamed et al. ,Ephys,S&K,Journal of Neurophysiology,,https://doi.org/10.1152/jn.00760.2006
+2008,5,116,Velliste et al.,Ephys,Stevenson,Nature,,https://doi.org/10.1038/nature06996
+2008,10,81,Hernandez et al.,Ephys,Stevenson,Proc. of the National Academy of Sciences,,https://doi.org/10.1073/pnas.0808702105
+2008,11,179,Kim et al.,Ephys,S&K,Journal of Neural Engineering,,https://doi.org/10.1088/1741-2560/5/4/010
+2009,3,334,Fitzsimmons et al.,Ephys,Stevenson,Frontiers in Integrative Neurosci,,https://doi.org/10.3389/neuro.07.003.2009
+2009,6,116,Nuding et al.,Ephys,S&K,Journal of Neurophysiology,,https://doi.org/10.1152/jn.91305.2008
+2009,7,100,Ganguly and Carmena,Ephys,Stevenson,PLoS Biology,192 Microwires,https://doi.org/10.1371/journal.pbio.1000153
+2009,8,161,Dickey et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.90920.2008
+2009,10,744,Stafford et al.,Ephys,Stevenson,Neuron,retina MEA,https://doi.org/10.1016/j.neuron.2009.09.021
+2010,1,68,Thiagarajan et al.,Ephys,Stevenson,PLoS Biology,,https://doi.org/10.1371/journal.pbio.1000278
+2010,1,129,Kelly et al.,Ephys,Stevenson,Journal of Computational Neuroscience,,https://doi.org/10.1007/s10827-009-0208-9
+2010,2,60,Schnupp et al.,Ephys,Stevenson,The Neurophysiological Bases of Auditory Perception,,https://doi.org/10.1007/978-1-4419-5686-6_38
+2010,7,122,Vargas-Irwin et al.,Ephys,Stevenson,Journal of Neuroscience,,https://doi.org/10.1523/JNEUROSCI.5443-09.2010
+2010,12,61,Suminski et al.,Ephys,Stevenson,Journal of Neuroscience,,https://doi.org/10.1523/JNEUROSCI.3967-10.2010
+2010,9,1585,Kerlin et al. ,Imaging,Urai,Neuron,"2p, mouse",https://doi.org/10.1016/j.neuron.2010.08.002
+2010,10,100,Dombeck et al. ,Imaging,Urai,Nature Neuroscience,,https://doi.org/10.1038/nn.2648
+2010,9,106,O'Connor et al.,Imaging,Urai,Neuron,,https://doi.org/10.1016/j.neuron.2010.08.026
+2010,4,58,Komiyama et al.,Imaging,Svoboda,Nature,average 55 neurons per experiment. First calcium imaging in behavior,https://doi.org/10.1038/nature08897
+2011,1,127,Lambacher et al.,Ephys,Stevenson,Applied Physics A,in vitro - culture,https://doi.org/10.1007/s00339-010-6046-9
+2011,2,107,Cerquera et al.,Ephys,Stevenson,Biological Cybernetics,,https://doi.org/10.1007/s00422-011-0418-x
+2011,2,115,Quinn et al.,Ephys,Stevenson,Journal of Computational Neuroscience,,https://doi.org/10.1007/s10827-010-0247-2
+2011,3,149,Truccolo et al.,Ephys,Stevenson,Nature Neuroscience,,https://doi.org/10.1038/nn.2782
+2011,4,99,Kim et al.,Ephys,Stevenson,IEEE TNSRE,,https://doi.org/10.1109/TNSRE.2011.2107750
+2011,11,200,O'Doherty et al.,Ephys,Stevenson,Nature,,https://doi.org/10.1038/nature10489
+2011,1,200,Cheng et al. ,Imaging,Meijer,Nature Methods,,https://doi.org/10.1038/nmeth.1552
+2012,1,82,Saleh et al.,Ephys,Stevenson,Journal of Neuroscience,,https://doi.org/10.1523/JNEUROSCI.2438-11.2012
+2012,1,90,Peyrache et al.,Ephys,Stevenson,PNAS,,https://doi.org/10.1073/pnas.1109895109
+2012,3,257,Bansal et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.00781.2011
+2012,4,106,Fraser et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.01012.2010
+2012,6,218,Churchland et al.,Ephys,Stevenson,Nature,,https://doi.org/10.1038/nature11129
+2012,10,228,Marre et al.,Ephys,Stevenson,Journal of Neuroscience,in vitro - retina,https://doi.org/10.1523/JNEUROSCI.0723-12.2012
+2012,8,250,Huber et al.,Imaging,Svoboda,Nature,First long-term calcium imaging experiment,https://doi.org/10.1038/nature11039
+2012,8,138,Petreanu et al.,Imaging,Svoboda,Nature,First imaging of axons to look at neurons defined by projections,https://doi.org/10.1038/nature11321
+2013,6,134,Aggarwal et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.01038.2011
+2013,11,497,Ifft et al.,Ephys,Stevenson,Science Translational Medicine,,https://doi.org/10.1126/scitranslmed.3006159
+2013,3,80000,Ahrens et al. ,Imaging,Urai,Nature Methods,light-sheet,https://doi.org/10.1038/nmeth.2434
+2013,2,740,Ziv et al.,Imaging,Urai,Nature Neuroscience,,https://doi.org/10.1038/nn.3329 
+2013,7,,Chen et al. ,Imaging,Svoboda,Nature,"Gcamp6. note that the major advance in imaging over the last 15 years have been sensors, not microscopes; better sensor --> more neurons at fixed SNR",https://doi.org/10.1038/nature12354
+2013,10,411,Cotton et al.,Imaging,Meijer,Frontiers in Neural Circuits,,https://doi.org/10.3389/fncir.2013.00151
+2014,1,3200,Maccione et al.,Ephys,Stevenson,Journal of Physiology,"retina MEA, approximate",https://doi.org/10.1113/jphysiol.2013.262840
+2014,3,163,Berenyi et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.00785.2013
+2014,4,136,Goris et al.,Ephys,Stevenson,Nature Neuroscience,,https://doi.org/10.1038/nn.3711
+2014,4,565,Schwarz et al.,Ephys,Stevenson,Nature Methods,,https://doi.org/10.1038/nmeth.2936
+2014,8,315,Ito et al.,Ephys,Stevenson,PLoS One,,https://doi.org/10.1371/journal.pone.0105324
+2014,11,88,Diba et al.,Ephys,Stevenson,Journal of Neuroscience,,https://doi.org/10.1523/JNEUROSCI.1091-14.2014
+2014,11,301,Lecoq et al. ,Imaging,Urai,Nature Neuroscience,,https://doi.org/10.1038/nn.3867
+2015,7,418,Shobe et al.,Ephys,Stevenson,Journal of Neurophysiology,,https://doi.org/10.1152/jn.00464.2015
+2015,4,1800,Peron et al. ,Imaging,Urai,Neuron,2p,https://doi.org/10.1016/j.neuron.2015.03.027
+2016,3,144,Rajangam et al.,Ephys,Stevenson,Scientific Reports,,https://doi.org/10.1038/srep22170
+2016,12,1166,Kim et al.,Imaging,Urai,Cell Reports,mouse,https://doi.org/10.1016/j.celrep.2016.12.004
+2016,6,3000,Sofroniew et al.,Imaging,Urai,eLife,mouse mesoscope,https://doi.org/10.7554/eLife.14472
+2016,10,3000,Prevedel et al.,Imaging,Rupprecht,Nature Methods,2p; 100s of neurons at 10Hz or 1000s of neurons at 3Hz,https://doi.org/10.1038/nmeth.4040
+2017,3,2234,Hilgen et al.,Ephys,Stevenson,Cell Reports,MEA,https://doi.org/10.1016/j.celrep.2017.02.038
+2017,9,807,Mitz et al.,Ephys,Stevenson,Journal of Neuroscience Methods,8 utah arrays (n is an average),https://dx.doi.org/10.1016%2Fj.jneumeth.2017.07.001
+2017,11,741,Jun et al.,Ephys,Stevenson,Nature,Neuropixels,https://doi.org/10.1038/nature24636
+2017,9,80000,Cong et al. ,Imaging,Urai,eLife,light-sheet in freely moving fish,https://doi.org/10.7554/eLife.28158
+2017,2,511,Song et al. ,Imaging,Charles,Nature Methods,2p; ~1K at 30Hz,https://doi.org/10.1038/nmeth.4226
+2017,7,10000,Pachitariu et al.,Imaging,Meijer,bioRxiv,,https://doi.org/10.1101/061507
+2018,1,146,Rutishauser et al.,Ephys,Stevenson,Neuron,,https://doi.org/10.1016/j.neuron.2017.11.029
+2018,4,375,Chung et al.,Ephys,Stevenson,Biorxiv,,https://doi.org/10.1101/242693
+2018,11,80000,Chen et al. ,Imaging,Urai,Neuron,"zebrafish, light-sheet",https://doi.org/10.1016/j.neuron.2018.09.042 
+2019,4,2668,Stringer et al.,Ephys,Stevenson,Science,Neuropixels,https://doi.org/10.1101/306019
+2019,10,1026,Bartolo et al.,Ephys,Stevenson,PLoS Comp Biology,8 utah arrays,https://doi.org/10.1371/journal.pcbi.1007514
+2019,11,1769,Steinmetz et al.,Ephys,Stevenson,Nature,Neuropixels (max count - from shared data),https://doi.org/10.1038/s41586-019-1787-x
+2019,4,11262,Stringer et al. ,Imaging,Urai,Science,2p,https://doi.org/10.1126/science.aav7893
+2019,4,11907,Weisenburger et al.,Imaging,Urai,Cell,,https://doi.org/10.1016/j.cell.2019.03.011
+2020,2,828,Bartolo et al.,Ephys,Stevenson,Journal of Neuroscience,8 utah arrays,https://doi.org/10.1523/JNEUROSCI.2072-19.2019
+2020,3,221,Obaid et al.,Ephys,Urai,Science Advances,,https://doi.org/10.1126/sciadv.aay2789 
+2020,3,2000,Rumyantsev et al.,Imaging,Rupprecht,Nature,2p,https://doi.org/10.1038/s41586-020-2130-2
+2020,7,16000,Ota et al. ,Imaging,Urai,bioRxiv,,https://doi.org/10.1101/2020.07.14.201699
+2020,7,791,Sahasrabuddhe et al.,Ephys,Urai,bioRxiv,,https://doi.org/10.1101/2020.07.17.209403
+2021,2,1000000,Demas et al. ,Imaging,Urai,bioRxiv,,https://doi.org/10.1101/2021.02.21.432164
